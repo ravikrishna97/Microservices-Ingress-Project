@@ -19,10 +19,6 @@
 - ✅ Monitoring with Prometheus & Grafana
 - ✅ GitOps with ArgoCD
 
-🔹 **10+ Real-time Projects**  
-🔹 **One-One Mock Interviews**  
-🔹 **Resume Guidance**
-
 
 
 ## 🛠️ Project Overview
